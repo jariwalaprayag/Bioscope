@@ -1,0 +1,9 @@
+Origin: OSMC
+Version: 17.6.0-53
+Section: video
+Essential: No
+Priority: required
+Provides: xbmc, kodi
+Conflicts: xbmc, kodi
+Maintainer: Sam G Nazarko <email@samnazarko.co.uk>
+Description: Media Center package for OSMC

@@ -1,0 +1,7 @@
+Origin: OSMC
+Version: 1.0.0-11
+Section: utils
+Essential: No
+Priority: required
+Maintainer: Sam G Nazarko <email@samnazarko.co.uk>
+Description: ARM accelerated functions of string.h

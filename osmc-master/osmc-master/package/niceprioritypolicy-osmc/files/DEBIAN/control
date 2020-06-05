@@ -1,0 +1,9 @@
+Origin: OSMC
+Package: niceprioritypolicy-osmc
+Version: 1.0.2
+Section: admin
+Essential: no
+Priority: required
+Architecture: all
+Maintainer: Sam G Nazarko <email@samnazarko.co.uk>
+Description: Configures /etc/security/limits.d to allow NICE value to be changed

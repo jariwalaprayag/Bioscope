@@ -1,0 +1,7 @@
+Origin: OSMC
+Version: 4.0.2-6
+Section: libs
+Essential: No
+Priority: optional
+Maintainer: Sam G Nazarko <email@samnazarko.co.uk>
+Description: libcec
